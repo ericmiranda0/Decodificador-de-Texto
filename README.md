@@ -23,7 +23,7 @@ Um decodificador de texto que permite criptografar e descriptografar mensagens. 
    git clone https://github.com/usuario/nome-do-repositorio.git
    cd nome-do-repositorio
 
-##Contato 📧
+## Contato 📧
 Se você tiver alguma dúvida, sinta-se à vontade para entrar em contato pelo e-mail: ericmirandajob@gmail.com
 
-#Deploy do Site: https://66c29b7f51ea8220056ba5f6--harmonious-licorice-774759.netlify.app/
+## Deploy do Site: https://66c29b7f51ea8220056ba5f6--harmonious-licorice-774759.netlify.app/
